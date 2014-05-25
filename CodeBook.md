@@ -4,8 +4,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Data Transformation
 Two datasets were created after running the script.
-*merged_data represents the merge of the training and testing datasets.
-*tidy_dataset groups the results of the first dataset by Subject and Activity, then calculates an average within each group. There are 180 records.
+* merged_data represents the merge of the training and testing datasets.
+* tidy_dataset groups the results of the first dataset by Subject and Activity, then calculates an average within each group. There are 180 records.
 
 ## Variables Names:
 
@@ -19,17 +19,17 @@ Subject is the identification of  volunteer
 [1] "Subject"
 
 ###Activity
-6 activities performed by volunteers in the experiment
 [2] "Activity"
+6 activities performed by volunteers in the experiment
 
- 1 WALKING
- 2 WALKING_UPSTAIRS
- 3 WALKING_DOWNSTAIRS
- 4 SITTING
- 5 STANDING
- 6 LAYING
+ 1. WALKING
+ 2. WALKING_UPSTAIRS
+ 3. WALKING_DOWNSTAIRS
+ 4. SITTING
+ 5. STANDING
+ 6. LAYING
 
-Variables from col 3 to 68
+###Variables from col 3 to 68
 
 [3] "tBodyAcc-mean()-X"
 [4] "tBodyAcc-mean()-Y"

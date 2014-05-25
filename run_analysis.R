@@ -1,9 +1,8 @@
-rm(list=ls())
-setwd("D:/Getting and Cleaning Data/")
-
 
 ## Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+## unzip the data and make sure the folder "UCI HAR Dataset" and 
+## the run_analysis.R script are both in the current working directory
 ## function to read a raw data, and get a tidy data
 
 
