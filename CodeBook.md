@@ -20,7 +20,7 @@ Subject is the identification of  volunteer
 
 ###Activity
 [2] "Activity"
-6 activities performed by volunteers in the experiment
+    6 activities performed by volunteers in the experiment
 
  1. WALKING
  2. WALKING_UPSTAIRS
@@ -31,36 +31,7 @@ Subject is the identification of  volunteer
 
 ###Variables from col 3 to 68
 
-[3] "tBodyAcc-mean()-X"
-[4] "tBodyAcc-mean()-Y"
-[5] "tBodyAcc-mean()-Z"
-[6] "tBodyAcc-std()-X"
-[7] "tBodyAcc-std()-Y"
-[8] "tBodyAcc-std()-Z"
-[9] "tGravityAcc-mean()-X"
-[10] "tGravityAcc-mean()-Y"
-[11] "tGravityAcc-mean()-Z"
-[12] "tGravityAcc-std()-X"
-[13] "tGravityAcc-std()-Y"
-[14] "tGravityAcc-std()-Z"
-[15] "tBodyAccJerk-mean()-X"
-[16] "tBodyAccJerk-mean()-Y"
-[17] "tBodyAccJerk-mean()-Z"
-[18] "tBodyAccJerk-std()-X"
-[19] "tBodyAccJerk-std()-Y"
-[20] "tBodyAccJerk-std()-Z"
-[21] "tBodyGyro-mean()-X"
-[22] "tBodyGyro-mean()-Y"
-[23] "tBodyGyro-mean()-Z"
-[24] "tBodyGyro-std()-X"
-[25] "tBodyGyro-std()-Y"
-[26] "tBodyGyro-std()-Z"
-[27] "tBodyGyroJerk-mean()-X"
-[28] "tBodyGyroJerk-mean()-Y"
-[29] "tBodyGyroJerk-mean()-Z"
-[30] "tBodyGyroJerk-std()-X"
-[31] "tBodyGyroJerk-std()-Y"
-[32] "tBodyGyroJerk-std()-Z"
+	
 [33] "tBodyAccMag-mean()"
 [34] "tBodyAccMag-std()"
 [35] "tGravityAccMag-mean()"
